@@ -1,0 +1,23 @@
+# Personal content: intentionally ignored even after first run.
+/data/*
+!/data/glossary.json
+/papers/
+/runtime/
+/backup*/
+/PaperLibrary-Backups/
+/BACKUP-MANIFEST.json
+*.sqlite*
+*.db
+*.pdf
+*.zip
+*.jpg
+*.jpeg
+*.png
+*.log
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db

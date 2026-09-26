@@ -1,0 +1,69 @@
+[
+  [
+    "注意力",
+    "attention"
+  ],
+  [
+    "隐私",
+    "privacy",
+    "private"
+  ],
+  [
+    "隐私推理",
+    "private inference",
+    "secure inference",
+    "安全推理"
+  ],
+  [
+    "机器学习",
+    "machine learning"
+  ],
+  [
+    "深度学习",
+    "deep learning"
+  ],
+  [
+    "神经网络",
+    "neural network"
+  ],
+  [
+    "机器翻译",
+    "machine translation"
+  ],
+  [
+    "剪枝",
+    "pruning",
+    "prune"
+  ],
+  [
+    "量化",
+    "quantization"
+  ],
+  [
+    "加密",
+    "encryption"
+  ],
+  [
+    "存储",
+    "storage"
+  ],
+  [
+    "格密码",
+    "lattice cryptography",
+    "lattice based",
+    "基于格"
+  ],
+  [
+    "后量子",
+    "post quantum",
+    "post-quantum"
+  ],
+  [
+    "检索",
+    "retrieval"
+  ],
+  [
+    "分类",
+    "classification"
+  ]
+]
