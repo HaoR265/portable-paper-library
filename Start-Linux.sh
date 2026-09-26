@@ -12,5 +12,5 @@ fi
 if command -v python3 >/dev/null 2>&1; then
     exec python3 "$LIBRARY_DIR/app/library.py" "$@"
 fi
-printf '%s\n' 'This package includes Linux x86_64. Other architectures require Python 3.9+.'
+printf '%s\n' 'Python 3.9+ is required. Install Python and try again.'
 exit 1
